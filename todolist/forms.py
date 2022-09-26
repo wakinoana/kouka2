@@ -2,7 +2,7 @@ import os
 
 from django import forms
 from django.core.mail import EmailMessage
-from .models import Diary
+# from .models import Diary
 
 # お問い合わせ内容を入力するフォーム
 class InquiryForm(forms.Form):
