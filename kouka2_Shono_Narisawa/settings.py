@@ -42,7 +42,7 @@ LOGGING = {
             'level': 'INFO',
         },
         # diaryアプリケーションが利用するロガー
-        'health_confirmation_slip': {
+        'todolist': {
             'handlers': ['file'],
             'level': 'INFO',
         },

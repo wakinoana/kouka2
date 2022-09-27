@@ -1,4 +1,4 @@
-# from .settings_dev_env import *
+from .settings_dev_env import *
 
 from.settings_common import *
 
